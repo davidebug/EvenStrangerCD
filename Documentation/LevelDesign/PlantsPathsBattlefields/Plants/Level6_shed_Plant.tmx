@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.1" orientation="orthogonal" renderorder="right-down" compressionlevel="0" width="10" height="10" tilewidth="32" tileheight="32" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" source="tileset/bianco.tsx"/>
+ <tileset firstgid="1426" source="tileset/muro sotto.tsx"/>
+ <tileset firstgid="1427" source="tileset/muro sopra.tsx"/>
+ <tileset firstgid="1428" source="tileset/muro sinistra.tsx"/>
+ <tileset firstgid="1429" source="tileset/muro destra.tsx"/>
+ <tileset firstgid="1430" source="tileset/lettera.tsx"/>
+ <tileset firstgid="1431" source="tileset/fucile.tsx"/>
+ <tileset firstgid="1432" source="tileset/item viola.tsx"/>
+ <tileset firstgid="1433" source="tileset/demodog.tsx"/>
+ <tileset firstgid="1434" source="tileset/marrone.tsx"/>
+ <tileset firstgid="2859" source="tileset/cassa.tsx"/>
+ <layer id="1" name="Livello tile 1" width="10" height="10">
+  <data encoding="csv">
+1426,1426,1426,1426,1426,1426,1426,1426,1426,1426,
+1428,415,1431,417,418,419,420,421,422,1429,
+1428,1430,473,474,475,476,2859,478,479,1429,
+1428,529,530,531,532,533,534,535,536,1429,
+1428,586,587,588,1433,590,591,592,593,594,
+1428,643,2859,645,646,647,2859,649,650,1429,
+1428,700,2859,702,703,704,705,706,707,1429,
+1428,2859,2859,759,760,761,762,763,764,1429,
+1428,1432,2859,816,817,818,2859,2859,2859,1429,
+1427,1427,1427,1427,1427,1427,1427,1427,1427,1427
+</data>
+ </layer>
+</map>
